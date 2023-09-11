@@ -7,6 +7,7 @@ namespace CSharp.Intro
         static void Main(string[] args)
         {
             new Calculator().Calculate();
+            new CurrentTime().GetTime();
         }
     }
 
